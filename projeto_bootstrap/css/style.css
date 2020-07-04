@@ -1,0 +1,23 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: rgb(70, 201, 211);
+    color: white;
+}
+
+.sobre{
+    background-color:rgb(220, 220, 220);
+}
+
+.margin{
+    padding-top: 16px;
+    padding-bottom: 50px;
+}
+
+.bg-footer{
+    background-color:black;
+    color: white;
+}
