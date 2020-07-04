@@ -26,7 +26,7 @@ Composto por 27 cursos totalizando uma carga horário de 100 horas. Com o foco e
 - [ ] *Arquitetura de Sistemas Avançado*
 - [x] **Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis**
 - [x] **Projetos ágeis com SCRUM**
-- [ ] *Introdução à biblioteca jQuery*
+- [x] **Introdução à biblioteca jQuery**
 - [ ] *Programação para internet com JavaScript*
 - [ ] *Desafio prático: Performance Web Utilizando JavaScript*
 - [ ] *JavaScript ES6 essencial*
