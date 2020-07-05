@@ -1,11 +1,13 @@
 # Desafio prático: Performance Web Utilizando JavaScript
 
->
+> Uma aula com testes de desempenho e experiência de usuário.
 
 ## Getting Start
 
 ### Requisitos
-- 
+- HMLT
+- CSS
+- JavaScript
 
 ### Implementações
 

@@ -1,0 +1,10 @@
+
+.title {
+    position: relative ;
+    transform: translateX(0);
+    transition: all 1s linear;
+}
+
+.title.animate{
+    transform: translateX(500px);
+}
