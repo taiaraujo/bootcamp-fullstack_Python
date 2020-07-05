@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width-device-width, initial-scale-1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+
+<body>
+    <!--
+    <img src="tela_consultacep.gif" alt=" tela"/>
+    <button id="btn-js">Click me</button>
+    --->
+    <style>
+        .title {
+            position: relative ;
+            transform: translateX(0);
+            transition: all 1s linear;
+        }
+
+        .title.animate{
+            transform: translateX(500px);
+        }
+    </style>
+
+    <h2 class="title">
+        Título da página
+    </h2>
+
+    <script>
+        setTimeout(
+            function(){
+                document.querySelector('.title').classList.add('animate')
+            }
+        )
+        /*
+        const $button = document.getElementById("btn-js");
+        const $hello = document.getElementById("hello");
+
+        $button.addEventListener("click", e => {
+            e.preventDefault();
+
+            $hello.innerHTML += "Fui clicado <br/>";
+        })
+        
+        setTimeout(
+            function(){
+                let content = "";
+                for(let i=0; i<10000; i++){
+                    content += "Fui clicado";
+                }
+            
+                $hello.innerHTML = content
+            }, 100
+        )
+        
+        requestAnimationFrame(
+            function(){
+                let content = "";
+                for(let i = 0; i < 100000; i++){
+                    content += "Fui clicado";
+                }
+                $hello.innerHTML = content
+            }
+        )
+
+        requestIdleCallback(
+            function(){
+                let content = "";
+                for(let i = 0; i < 100000; i++){
+                    content += "Fui clicado";
+                }
+                $hello.innerHTML = content
+            }
+        )
+        */
+
+    </script>
+</body>
+
+</html>

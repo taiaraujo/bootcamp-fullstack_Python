@@ -27,7 +27,7 @@ Composto por 27 cursos totalizando uma carga horário de 100 horas. Com o foco e
 - [x] **Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis**
 - [x] **Projetos ágeis com SCRUM**
 - [x] **Introdução à biblioteca jQuery**
-- [ ] *Programação para internet com JavaScript*
+- [x] **Programação para internet com JavaScript**
 - [ ] *Desafio prático: Performance Web Utilizando JavaScript*
 - [ ] *JavaScript ES6 essencial*
 - [ ] *Desafio prático: Desmistificando map, filter e reduce*

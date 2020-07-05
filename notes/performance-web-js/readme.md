@@ -1,0 +1,29 @@
+# Desafio prático: Performance Web Utilizando JavaScript
+
+>
+
+## Getting Start
+
+### Requisitos
+- 
+
+### Implementações
+
+#### Carregamento
+
+- [x] Minificar arquivos - (html, css, javascript)
+- [x] Habilitar gzip
+- [x] Lazy loading - (carregar requisições sob demanda)
+- [x] Carregue tudo de forma assíncrona
+- [x] Seletores CSS
+- [x] Recursores que bloqueiam o carregamento da página com iframes e laços de repetição
+- [x] Lide com imagens com carinho
+- [x] Libere logo o carregamento da página e carregue o resto depois (AFT)
+
+#### Execução - Mão na massa
+- [x] Main Thread
+- [x] SetTimeout
+- [x] RequestAnimationFrame
+- [x] RequestIdleCallback
+- [x] Otimização de CSS via GPU "Thread"
+- [x] Tome cuidado ao manipular o DOM (Reflow e Repoint)
