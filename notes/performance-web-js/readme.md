@@ -5,7 +5,7 @@
 ## Getting Start
 
 ### Requisitos
-- HMLT
+- HTLM
 - CSS
 - JavaScript
 
